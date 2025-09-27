@@ -1,4 +1,4 @@
-[ماركت.html](https://github.com/user-attachments/files/22572471/default.html)
+
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
